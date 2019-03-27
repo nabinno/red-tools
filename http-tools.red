@@ -46,8 +46,8 @@ Red [
 	]
 ]
 
-do https://rebolek.com/redquire
-redquire [json]
+; do https://rebolek.com/redquire
+; redquire [json]
 
 ; --- support tools ----------------------------------------------------------
 
